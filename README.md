@@ -1,6 +1,6 @@
 Tasks:
-Home page: Ra’eesah
-About and History page: Siyabonga and Tiffany
+Home page: Siyabonga
+About and History page: Ra’eesah and Tiffany
 Gallery page: Jayden
 Fixtures and results page: Kegomoditswe
 Register page: Marvin

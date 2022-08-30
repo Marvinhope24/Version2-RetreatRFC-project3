@@ -170,6 +170,16 @@ register
   cursor: pointer;
 }
 /*
+logo
+ */
+.logo{
+  position: absolute;
+  margin: auto;
+  width: 90px;
+  height: 40px;
+}
+
+/*
 table start
  */
 table {
